@@ -22,6 +22,11 @@ p {
 	color: #444;
 }
 
+/*a {
+  color: inherit;
+  text-decoration: none;
+}*/
+
 #cv {
 	width: 90%;
 	max-width: 800px;
@@ -120,6 +125,7 @@ section:last-child {
 .sectionContent {
 	float: right;
 	width: 72.5%;
+  text-align: justify;
 }
 
 .sectionTitle h1 {
