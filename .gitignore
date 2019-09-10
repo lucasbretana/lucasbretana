@@ -1,0 +1,7 @@
+# vim
+*.swp
+
+# unused
+*.ignore
+*.old
+*.private
